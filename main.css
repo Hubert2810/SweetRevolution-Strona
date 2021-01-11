@@ -1,5 +1,4 @@
 
-
 .header {
 
     margin-left: -490px;
@@ -39,12 +38,28 @@
 .img_1 {
     position: fixed;
 }
+
 .img_2 {
     right: -96px;
     top: 87px;
     position: absolute;
-    transform: scale(0.7,0.7);
+    transform: scale(0.7, 0.7);
 }
+
+.img_3 {
+    position: absolute;
+    transform: scale(0.7, 0.7);
+    top: 507px;
+    left: 146px;
+}
+
+.img_4 {
+    position: absolute;
+    transform: scale(0.7, 0.7);
+    margin-top: 72px;
+    margin-left: -70px;
+}
+
 ul {
     float: right;
     width: 75%;
@@ -71,4 +86,50 @@ li a {
 li a:hover {
     border: 1px solid blue;
 }
-.footer{font-family: Mulish;}
+
+.footer {
+    font-family: Mulish;
+}
+
+.oferta {
+    font-family: Mulish;
+    font-weight: bold;
+    margin-top: 204px;
+    margin-left: 594px;
+    font-size: 25px;
+}
+
+.Ipad {
+    transform: scale(0.7, 0.7);
+    margin-top: 93px;
+    margin-left: -464px;
+}
+
+.opis_wersji {
+    margin-top: -311px;
+    font-weight: lighter;
+    width: 507px;
+    margin-left: -125px;
+}
+
+.version_1 {
+    text-align: center;
+    position: absolute;
+    margin-top: 69px;
+    margin-left: -166px;
+    font-size: 16px;
+}
+
+.version_2 {
+    text-align: center;
+    position: absolute;
+    margin-top: 69px;
+    margin-left: 128px;
+    font-size: 16px;
+}
+
+.avatar {
+    transform: scale(0.7, 0.7);
+    margin-top: 221px;
+    margin-left: 27px;
+}
