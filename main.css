@@ -1,14 +1,10 @@
-
 .header {
-
-    margin-left: -490px;
+    margin-right: 1182px;
     font-family: Mulish;
     font-style: normal;
     font-weight: bold;
     font-size: 16px;
     text-align: center;
-
-
 }
 
 .btn {
@@ -16,23 +12,22 @@
 }
 
 .baner {
-    margin-left: 148px;
-    margin-top: 75px;
-    width: 40%;
-    font-weight: bold;
+    margin-left: 224px;
+    margin-top: 235px;
+    width: 49%;
+    font-weight: bolder;
     text-transform: uppercase;
     text-align: left;
-    font-family: Mulish;
-
+    font-family: Montserrat;
+    font-size: 40px;
 }
 
 .opis {
     width: 40%;
-    margin-left: 148px;
-    font-size: 14px;
-    font-family: Mulish;
-    margin-top: 36px;
-
+    margin-left: 223px;
+    font-size: 24px;
+    font-family: 'Montserrat';
+    margin-top: 38px;
 }
 
 .img_1 {
@@ -40,32 +35,31 @@
 }
 
 .img_2 {
-    right: -96px;
-    top: 87px;
+    left: 1045px;
+    top: 306px;
     position: absolute;
-    transform: scale(0.7, 0.7);
 }
 
 .img_3 {
     position: absolute;
-    transform: scale(0.7, 0.7);
-    top: 507px;
-    left: 146px;
+    top: 781px;
+    left: 306px;
+    z-index: -1;
 }
 
 .img_4 {
+    margin-top: -75px;
+    margin-left: -36px;
+    z-index: -1;
     position: absolute;
-    transform: scale(0.7, 0.7);
-    margin-top: 72px;
-    margin-left: -70px;
 }
 
 ul {
-    float: right;
-    width: 75%;
+    width: 1462px;
     padding: -25px;
-    margin: -37px;
+    margin: -7px;
     list-style: none;
+    text-align: left;
 }
 
 li a {
@@ -94,42 +88,52 @@ li a:hover {
 .oferta {
     font-family: Mulish;
     font-weight: bold;
-    margin-top: 204px;
-    margin-left: 594px;
-    font-size: 25px;
+    margin-top: 194px;
+    margin-left: 897px;
+    font-size: 36px;
 }
 
 .Ipad {
-    transform: scale(0.7, 0.7);
-    margin-top: 93px;
-    margin-left: -464px;
+    margin-top: 275px;
+    margin-left: -629px;
 }
 
 .opis_wersji {
-    margin-top: -311px;
+    margin-top: -367px;
     font-weight: lighter;
-    width: 507px;
-    margin-left: -125px;
+    width: 742px;
+    margin-left: -188px;
 }
 
 .version_1 {
     text-align: center;
     position: absolute;
-    margin-top: 69px;
-    margin-left: -166px;
-    font-size: 16px;
+    margin-top: 130px;
+    margin-left: -253px;
+    font-size: 24px;
 }
 
 .version_2 {
     text-align: center;
     position: absolute;
-    margin-top: 69px;
-    margin-left: 128px;
-    font-size: 16px;
+    margin-top: 131px;
+    margin-left: 189px;
+    font-size: 24px;
 }
 
 .avatar {
-    transform: scale(0.7, 0.7);
-    margin-top: 221px;
-    margin-left: 27px;
+    margin-top: 287px;
+    margin-left: 173px;
+}
+
+.o_mnie_opis {
+    font-family: Mulish;
+    font-weight: bold;
+    margin-top: -506px;
+    margin-left: 1333px;
+    font-size: 36px;
+}
+.arrow_2{
+    margin-top: 10px;
+    margin-left: 1365px;
 }
