@@ -20,6 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aaf64c49-2949-42b4-b4c1-8060551c5480" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/btn_2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/download.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phones.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/main.css" afterDir="false" />
@@ -81,7 +84,8 @@
       <workItem from="1610229071458" duration="6128000" />
       <workItem from="1610351289679" duration="4314000" />
       <workItem from="1610384298718" duration="1002000" />
-      <workItem from="1610485980790" duration="4467000" />
+      <workItem from="1610485980790" duration="6391000" />
+      <workItem from="1610555995654" duration="2724000" />
     </task>
     <task id="LOCAL-00001" summary="First commit&#10;Raw version of site">
       <created>1606056752188</created>
@@ -125,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610386559308</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Another commit with fixed resolution">
+      <created>1610492811781</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1610492811781</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,6 +160,7 @@
     <MESSAGE value="Kill me ;-;" />
     <MESSAGE value="Another commit" />
     <MESSAGE value="Another commit ;-;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Another commit ;-;" />
+    <MESSAGE value="Another commit with fixed resolution" />
+    <option name="LAST_COMMIT_MESSAGE" value="Another commit with fixed resolution" />
   </component>
 </project>

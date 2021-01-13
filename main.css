@@ -54,6 +54,13 @@
     position: absolute;
 }
 
+.img_5 {
+    margin-top: -164px;
+    margin-left: 1125px;
+    z-index: -1;
+    position: absolute;
+}
+
 ul {
     width: 1462px;
     padding: -25px;
@@ -126,14 +133,50 @@ li a:hover {
     margin-left: 173px;
 }
 
-.o_mnie_opis {
+.o_mnie_header {
     font-family: Mulish;
     font-weight: bold;
     margin-top: -506px;
     margin-left: 1333px;
     font-size: 36px;
 }
-.arrow_2{
+
+.arrow_2 {
     margin-top: 10px;
     margin-left: 1365px;
+}
+.arrow_3{
+    margin-left: 434px;
+    margin-top: 32px;
+}
+.o_mnie_opis {
+    font-weight: lighter;
+    font-family: Mulish;
+    font-size: 24px;
+    width: 540px;
+    margin-left: 1126px;
+    margin-top: 44px;
+}
+
+.pobierz {
+    font-family: Mulish;
+    font-weight: bold;
+    margin-top: 274px;
+    margin-left: 336px;
+    font-size: 36px;
+    width: 298px;
+}
+.pobierz_opis{
+    font-family: Mulish;
+    font-size: 24px;
+    margin-left: 337px;
+    margin-top: -209px;
+}
+.phones{
+    margin-left: 1026px;
+    margin-top: -352px;
+}
+.download{
+    margin-top: 107px;
+    margin-left: 337px;
 }
