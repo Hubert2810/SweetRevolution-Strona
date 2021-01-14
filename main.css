@@ -30,6 +30,12 @@
     margin-top: 38px;
 }
 
+.img {
+    position: absolute;
+    margin-top: 57px;
+    margin-left: 320px;
+}
+
 .img_1 {
     position: fixed;
 }
@@ -342,9 +348,31 @@ li a:hover {
 footer {
     width: 1900px;
     height: 432px;
-    margin-top: 40px;
+    margin-top: -233px;
     background-color: #007094;
 }
-tr{
-    border-spacing: 5em
+
+table {
+    border-spacing: 242px 0px;
+    margin-top: 272px;
+    font-family: 'Mulish';
+    color: white;
+    font-size: 24px;
+}
+
+.fb {
+    margin-top: 325px;
+    margin-left: 719px;
+}
+
+.in {
+    margin-left: 88px;
+}
+
+.tw {
+    margin-left: 88px;
+}
+
+.yt {
+    margin-left: 88px;
 }
