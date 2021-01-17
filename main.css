@@ -344,10 +344,13 @@ li a:hover {
     margin-left: 873px;
     margin-top: 25px;
 }
-
+.arrow{
+    margin-left: 28px;
+    margin-top: 12px;
+}
 footer {
     width: 1900px;
-    height: 432px;
+    height: 830px;
     margin-top: -233px;
     background-color: #007094;
 }
