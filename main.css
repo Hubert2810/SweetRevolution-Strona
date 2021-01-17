@@ -344,27 +344,29 @@ li a:hover {
     margin-left: 873px;
     margin-top: 25px;
 }
-.arrow{
+
+.arrow {
     margin-left: 28px;
     margin-top: 12px;
 }
+
 footer {
     width: 1900px;
-    height: 830px;
-    margin-top: -233px;
+    height: 563px;
+    margin-top: 7px;
     background-color: #007094;
 }
 
 table {
     border-spacing: 242px 0px;
-    margin-top: 272px;
+    margin-top: 128px;
     font-family: 'Mulish';
     color: white;
     font-size: 24px;
 }
 
 .fb {
-    margin-top: 325px;
+    margin-top: 167px;
     margin-left: 719px;
 }
 
